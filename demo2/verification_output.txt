@@ -1,0 +1,536 @@
+Loading article data and extraction results...
+Found 20 articles with extraction results
+
+================================================================================
+VERIFICATION: Supporting Excerpts for Detected Messages
+================================================================================
+
+================================================================================
+Article 1: APEC summit to close in South Korea after Trump, Xi agreed on trade truce
+Source: Winnipeg Free Press
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...touch on efforts to achieve denuclearization and peace on the Korean Peninsula.
+
+That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member. North Korea's Vice Foreign Minister Pak My...
+  [2] ...North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded. Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed. North...
+  [3] ...ooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-escalati...
+  [4] ...omic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-es...
+  [5] ...ummit held in conjunction with APEC, Xi said that "Investing in China is investing in the future."
+
+Xi met his Japanese, Canadian and Thai counterparts bilaterally on the sidelines of APEC on Frida...
+
+✓ ISSUES DISCUSSED: north korea, trade
+
+  Issue: north korea
+  [1] He's to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula
+  [2] That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member
+  [3] Trump earlier repeatedly expressed his desire to meet North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded
+  [4] Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed
+
+  Issue: trade
+  [1] GYEONGJU, South Korea (AP) -- Leaders of 21 Asian and Pacific Rim nations are to set to wrap up their annual economic forum on Saturday after President Donald Trump and Chinese President Xi Jinping ag...
+  [2] This year's Asia-Pacific Economic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their ear...
+  [3] During the APEC summit's opening session Friday, Xi said China would support global free trade and supply chain stability in an apparent effort to position his country as an alternative to Trump's pro...
+  [4] strategy has been shifted to economic competitions with China rather than cooperation, with Trump's tariff hikes and "America first" agenda shaking markets and threatening decades of globalization and...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  [1] He's to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula
+
+
+================================================================================
+Article 2: China's Xi in the spotlight at Pacific summit while Trump is conspicuous by his absence
+Source: ExBulletin
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...tes, including in shipbuilding, aerospace and technology, according to the White House.
+
+On Friday, Xi met with Japan's Takaichi, a staunch conservative who has criticized China's growing military ...
+  [2] Leaders of Pacific countries and territories, including China's Xi Jinping, gathered in South Korea for a major summit this week. But the leader of a world power is visibly absent: Don...
+  [3] ...ist bumps and jokes.
+
+For Canadian Prime Minister Carney, embroiled in an escalating trade war with Trump, the meeting with Xi marked a turning point in their relationship, according to his office....
+  [4] ...mic Cooperation summit, which brings together countries representing more than half of world trade, Xi stepped into the spotlight and held high-level meetings with new Japanese leader Sanae Takaich...
+
+✓ ISSUES DISCUSSED: north korea, technology, trade, taiwan
+
+  Issue: north korea
+  No supporting excerpts found
+
+  Issue: technology
+  No supporting excerpts found
+
+  Issue: trade
+  [1] The US president left South Korea on Thursday, moments after his historic meeting with his Chinese counterpart, which appeared to ease the protracted trade conflict between the world's two largest eco...
+  [2] While Trump chose to skip the annual Asia-Pacific Economic Cooperation summit, which brings together countries representing more than half of world trade, Xi stepped into the spotlight and held high-l...
+  [3] Despite his absence, Trump's protectionist trade policies and punitive global tariffs threaten the two-day event in the city of Gyeongju
+  [4] But a key focus of the forum this year is to strengthen supply chains and encourage cooperation as economies around the world reel from Trump's tariff offensive
+  [5] For Canadian Prime Minister Carney, embroiled in an escalating trade war with Trump, the meeting with Xi marked a turning point in their relationship, according to his office
+
+  Issue: taiwan
+  [1] On Friday, Xi met with Japan's Takaichi, a staunch conservative who has criticized China's growing military presence in the region and called for cooperation with Taiwan, the self-governing island tha...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  [1] Carney and Xi affirmed their commitment to renewing relations between their two countries in a pragmatic and constructive manner and discussed a framework to deepen cooperation in a range of areas fro...
+
+
+================================================================================
+Article 3: APEC summit to close in South Korea after Trump, Xi agreed on trade truce - WTOP News
+Source: WTOP
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...touch on efforts to achieve denuclearization and peace on the Korean Peninsula.
+
+That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member. North Korea's Vice Foreign Minister Pak My...
+  [2] ...North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded. Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed. North...
+  [3] ...ooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-escalati...
+  [4] ...omic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-es...
+  [5] ...ummit held in conjunction with APEC, Xi said that "Investing in China is investing in the future."
+
+Xi met his Japanese, Canadian and Thai counterparts bilaterally on the sidelines of APEC on Frida...
+
+✓ ISSUES DISCUSSED: north korea, ip rights, trade
+
+  Issue: north korea
+  [1] He's to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula
+  [2] That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member
+  [3] Trump earlier repeatedly expressed his desire to meet North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded
+  [4] Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed
+
+  Issue: ip rights
+  No supporting excerpts found
+
+  Issue: trade
+  [1] GYEONGJU, South Korea (AP) -- Leaders of 21 Asian and Pacific Rim nations are to set to wrap up their annual economic forum on Saturday after President Donald Trump and Chinese President Xi Jinping ag...
+  [2] This year's Asia-Pacific Economic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their ear...
+  [3] During the APEC summit's opening session Friday, Xi said China would support global free trade and supply chain stability in an apparent effort to position his country as an alternative to Trump's pro...
+  [4] strategy has been shifted to economic competitions with China rather than cooperation, with Trump's tariff hikes and "America first" agenda shaking markets and threatening decades of globalization and...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  [1] He's to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula
+
+
+================================================================================
+Article 4: @ the Bell: Tariffs and treats -- Trump and Xi call a truce as the market chills
+Source: stockhouse
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...oal to double its non-US exports within the next ten years.
+
+Meanwhile, Presidents Donald Trump and Xi Jinping reached a one-year trade truce during their meeting in South Korea on Thursday, easing...
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✗ EXTERNAL COMMENTARY: Not detected
+
+
+================================================================================
+Article 5: Trump may have skipped APEC, but Xi is using it to sell China as the last defender of globalization
+Source: ExBulletin
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✗ EXTERNAL COMMENTARY: Not detected
+
+
+================================================================================
+Article 6: APEC Summit: Trump's Truce with Xi Steals the Limelight | Business
+Source: Devdiscourse
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✓ ISSUES DISCUSSED: north korea, trade
+
+  Issue: north korea
+  [1] President Xi Jinping positions China as a trade leader amidst fading multilateralism, while South Korea's agenda on denuclearization angers North Korea, highlighting geopolitical tensions
+
+  Issue: trade
+  [1] President Xi Jinping positions China as a trade leader amidst fading multilateralism, while South Korea's agenda on denuclearization angers North Korea, highlighting geopolitical tensions
+  [2] The Asia-Pacific Economic Cooperation (APEC) summit concluded in Gyeongju, South Korea, amidst a significant backdrop: a temporary truce between US President Donald Trump and Chinese President Xi Jinp...
+  [3] Xi Jinping emphasized China's commitment to global free trade and supply chain stability during APEC's opening session, seeking to position China as a leader in contrast to Trump's protectionist stanc...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✗ EXTERNAL COMMENTARY: Not detected
+
+
+================================================================================
+Article 7: Trump and Xi pause trade war, not rivalry - The Tribune
+Source: The Tribune
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...aiwan, tech supremacy and national security remain unresolved and may reappear as flashpoints.
+
+The Trump-Xi meeting delivered a managed de-escalation that reduced near-term economic risk while pre...
+  [2] ...tech supremacy and national security remain unresolved and may reappear as flashpoints.
+
+The Trump-Xi meeting delivered a managed de-escalation that reduced near-term economic risk while preserving...
+  [3] ...s, China managed escalation dominance more effectively even as the US claimed a short-run victory.
+
+Trump's description of the meeting as a "G2" moment functioned primarily as rhetorical flourish. ...
+  [4] ...while the US one was triumphalist, transactional and designed for domestic political consumption.
+
+Trump described the meeting as "amazing" and rated it a "12 out of 10," claiming broad agreement o...
+
+✓ ISSUES DISCUSSED: trade, taiwan, north korea, south china sea, technology
+
+  Issue: trade
+  [1] THE first in-person meeting since 2019 between Donald Trump and Xi Jinping on the margins of the APEC leaders' summit in Busan produced a politically useful agreement to de-escalate and stabilise imme...
+  [2] Tariff relief included a reduction in the overall US levy on Chinese goods from 57% to 47%, with fentanyl-related duties halved from 20% to 10%, contingent on Xi's assurance of "strong action" against...
+  [3] Trump emphasised coercive leverage through tariff threats and alliances with Indo-Pacific partners to diversify supply chains, yielding US gains in agriculture and minerals
+
+  Issue: taiwan
+  No supporting excerpts found
+
+  Issue: north korea
+  [1] Trump's announcement on resuming nuclear testing, barely an hour before his meeting with Xi, complicated the diplomatic environment
+
+  Issue: south china sea
+  No supporting excerpts found
+
+  Issue: technology
+  No supporting excerpts found
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 8: Analysis: China's Xi has the advantage after his trade meeting with Trump
+Source: ExBulletin
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 9: VIDEO: Trump dan Xi Jinping Sepakat Akhiri Ketegangan Dagang!
+Source: CNNindonesia
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✗ EXTERNAL COMMENTARY: Not detected
+
+
+================================================================================
+Article 10: APEC summit to close in South Korea after Trump, Xi agreed on trade...
+Source: Daily Mail Online
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...ooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday´s Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-escalati...
+  [2] ...omic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday´s Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-es...
+  [3] ...North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded. Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed. North...
+  [4] ...touch on efforts to achieve denuclearization and peace on the Korean Peninsula.
+
+That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member. North Korea´s Vice Foreign Minister Pak My...
+  [5] ...ummit held in conjunction with APEC, Xi said that "Investing in China is investing in the future."
+
+Xi met his Japanese, Canadian and Thai counterparts bilaterally on the sidelines of APEC on Frida...
+
+✓ ISSUES DISCUSSED: north korea, trade
+
+  Issue: north korea
+  [1] He´s to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula
+  [2] That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member
+  [3] (AP Photo/Ahn Young-joon)
+
+Trump earlier repeatedly expressed his desire to meet North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded
+  [4] Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed
+
+  Issue: trade
+  [1] GYEONGJU, South Korea (AP) - Leaders of 21 Asian and Pacific Rim nations are to set to wrap up their annual economic forum on Saturday after President Donald Trump and Chinese President Xi Jinping agr...
+  [2] This year´s Asia-Pacific Economic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday´s Trump-Xi meeting that ended with the two leaders dialing back their ear...
+  [3] During the APEC summit´s opening session Friday, Xi said China would support global free trade and supply chain stability in an apparent effort to position his country as an alternative to Trump´s pro...
+  [4] strategy has been shifted to economic competitions with China rather than cooperation, with Trump´s tariff hikes and "America first" agenda shaking markets and threatening decades of globalization and...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  [1] He´s to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula
+
+
+================================================================================
+Article 11: Nvidia Uncertain if Return to China Is Closer After Trump-Xi Meeting
+Source: The New York Times
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...taking chips," with the United States playing "referee."
+
+The remarks created confusion because Mr. Trump had suggested before the meeting that he would discuss Nvidia's most powerful A.I. semicond...
+
+✓ ISSUES DISCUSSED: technology
+
+  Issue: technology
+  [1] Xi, fueling speculation that the United States might ease restrictions limiting access to the technology
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 12: White House releases relaxed images from Xi-Trump summit in Busan
+Source: Dimsum Daily
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...licited the amused reaction.
+
+The discussion in Busan lasted around 100 minutes. After the session, Trump rated the meeting "12" on a scale of one to 10, indicating strong satisfaction with the exc...
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 13: Trump not discussing Russia oil sanctions with Xi signals priorities shift -- Media
+Source: Pravda EN
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 14: White House official: Trump spoke with Xi Jinping about Jimmy Lai's release
+Source: Catholic News Agency
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  [1] According to Jensen, the official stated: "As President Trump said, Jimmy Lai should be released and he wants to see that happen." Prior to leaving for Asia, Trump had told Jensen that he would appeal...
+
+
+================================================================================
+Article 15: Trump-Xi meeting: Shaping future of US-China ties - Pakistan Observer
+Source: Pakistan Observer
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...ideal recipe for both countries. Trump looked forward to visiting China early next year and invited President Xi to visit the US. It seems that the leaders' meeting plays an exceptional strategic r...
+
+✓ ISSUES DISCUSSED: trade, hong kong
+
+  Issue: trade
+  [1] Hence, as Xi emphasized, under their joint guidance, China-US relations have remained stable on the whole, vividly reflecting high levels of positivity, productivity and meaningful participation to re...
+  [2] During the meeting, the Chinese head of state, Xi, rightly projected his economy as vast, big, resilient and promising, having good momentum in economic development, which increased by 5.2 percent and...
+  [3] In summary, the presidential meeting is a milestone in China-US relations that will help stabilize global sentiment and trade expectations, offering relief for global demand and supply chains
+
+  Issue: hong kong
+  No supporting excerpts found
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 16: Trump-Xi talks didn't change Beijing's priority: flagging economy | Today Headline
+Source: Inside The Star-Studded World
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...dministration's unpredictability and its damaging potential for their country's economy.
+
+Trump and Xi's meeting came one week after China's top leadership laid out development priorities for the n...
+  [2] ...s met with his American counterpart, Donald Trump, for their first face-to-face talks in six years. Trump emerged from the meeting in South Korea in a buoyant mood, describing it as a 12 on a scale...
+  [3] ...he Trump administration's unpredictability and its damaging potential for their country's economy.
+
+Trump and Xi's meeting came one week after China's top leadership laid out development priorities...
+  [4] China's president, Xi Jinping, has met with his American counterpart, Donald Trump, for their first face-to-face talks in six years. Trump...
+  [5] ...mp administration ordered US chip design software makers to halt all sales to China. And even after Trump's recent meeting with Xi, exports of advanced US technology to China still look like they w...
+
+✓ ISSUES DISCUSSED: ip rights, technology, trade
+
+  Issue: ip rights
+  No supporting excerpts found
+
+  Issue: technology
+  [1] And even after Trump's recent meeting with Xi, exports of advanced US technology to China still look like they will be largely restricted
+  [2] And by dominating the production of rare earths, a group of metals crucial for high-tech manufacturing, China has a powerful trump card
+
+  Issue: trade
+  [1] In a statement, the foreign ministry declared that both sides had exchanged views on "important economic and trade issues" and said Xi was "ready to continue working" with Trump "to build a solid foun...
+  [2] Trump took Washington's confrontation with Beijing to greater heights, imposing tariffs of 145% on most Chinese goods
+  [3] Although many of these measures were later eased, the volatility of the two countries' trade relationship was further evidenced when Trump threatened to reinstate 100% tariffs on Chinese exports just ...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 17: Trump, Xi consider deal to ease US-China trade war, but tensions remain
+Source: ExBulletin
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...e United States: We are going to have a very successful meeting. I don't doubt it.
+
+Nick Schifrin:
+
+President Trump arrived at the highest-stakes meeting of his second term predicting success.
+
+Don...
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  No supporting excerpts found
+
+
+================================================================================
+Article 18: As Trump skips APEC, China's Xi fills the void with message on trade
+Source: The Straits Times
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...ded China-ASEAN free trade deal.
+
+As was the case at APEC, the contrast with the U.S. was palpable. Trump's six-hour blitz of meetings at the ASEAN forum achieved four trade deals -- but none of th...
+  [2] ...hance the authority and effectiveness of the multilateral trading system with the WTO at its core," Xi told the leaders gathered for the opening of APEC, referring to the World Trade Organization.
+...
+  [3] ...that compared to China's consistent presence, U.S. "inevitably appears selective and conditional".
+
+Xi will hold meetings with Canadian Prime Minister Mark Carney and Japan's new Prime Minister San...
+
+✓ ISSUES DISCUSSED: trade
+
+  Issue: trade
+  [1] This encapsulates a change in the contest for influence across the Asia-Pacific, home to the world's fastest-growing economies and critical supply chains rattled by Trump's tariffs
+  [2] "We must practice true multilateralism, and enhance the authority and effectiveness of the multilateral trading system with the WTO at its core," Xi told the leaders gathered for the opening of APEC, ...
+  [3] Treasury Secretary Scott Bessent stood in for Trump, to "update international economic and trade rules to reflect the changing times, so as to better protect the legitimate rights and interests of dev...
+  [4] Trump's six-hour blitz of meetings at the ASEAN forum achieved four trade deals -- but none of them reduced U.S
+  [5] bilateral trade deals with individual countries are much more circumstantial and limited in their scope."
+
+PRICE OF FREE TRADE
+
+Although no policy breakthroughs are expected at APEC, Xi's presence at ...
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✓ EXTERNAL COMMENTARY:
+  [1] Treasury Secretary Scott Bessent stood in for Trump, to "update international economic and trade rules to reflect the changing times, so as to better protect the legitimate rights and interests of dev...
+  [2] tariff issues in order to pretend as if they are the guardian or champion of the free trade system," said Japanese foreign ministry spokesperson Toshihiro Kitamura on the sidelines of the ASEAN meetin...
+
+
+================================================================================
+Article 19: HONG KONG - CHINA Human rights and freedom missing from the Trump-Xi summit
+Source: Asia News.it
+================================================================================
+
+✓ MEETING OCCURRED:
+  [1] ...he crackdown on dissent is getting worse every day.
+
+While the world's attention was focused on the Xi-Trump summit, 92 international civil society groups and prominent figures appealed to the gove...
+  [2] ...adio Free Asia on Wednesday stopped updating its website entirely, coincidentally on the eve of the Trump-Xi summit, warning that independent journalism "is at risk".
+
+In an era of grands summits, ...
+  [3] ...o have been held since 10 October.
+
+The coming weeks will show whether anything has come out of the Trump-Xi meeting, beyond the silence. The fact remains that in the era of tariff and trade wars, ...
+  [4] ...been held since 10 October.
+
+The coming weeks will show whether anything has come out of the Trump-Xi meeting, beyond the silence. The fact remains that in the era of tariff and trade wars, the iss...
+
+✓ ISSUES DISCUSSED: trade, hong kong
+
+  Issue: trade
+  [1] Beyond the usual rhetorical declarations of collaboration (Xi Jinping even went so far as to say that the slogan "Make America Great Again" closely resembles his mantra on China's "renaissance"), the ...
+  [2] Trade issues aside, Trump's "12 on a scale of 10" rating at the summit with Xi Jinping had nothing to say about human rights in China
+  [3] While the world's attention was focused on the Xi-Trump summit, 92 international civil society groups and prominent figures appealed to the governments of the G7 countries (including the United States...
+
+  Issue: hong kong
+  [1] The US president had promised to raise during the talks the issue of Jimmy Lai, the pro-democracy Catholic businessman held in a Hong Kong prison for nearly five years
+  [2] While the world's attention was focused on the Xi-Trump summit, 92 international civil society groups and prominent figures appealed to the governments of the G7 countries (including the United States...
+
+✓ QUESTIONS ANSWERED:
+  [1] In an era of grands summits, overshadowed by trade agreements resulting from transactional negotiations, is there still room for the fight for freedom in China? This is the real question left unanswer...
+
+✗ EXTERNAL COMMENTARY: Not detected
+
+
+================================================================================
+Article 20: Chinese Exporters Bet That Xi-Trump Tariff Truce Won't Last
+Source: news.bloomberglaw.com
+================================================================================
+
+✗ MEETING OCCURRED: Not detected
+
+✗ ISSUES DISCUSSED: Not detected
+
+✗ QUESTIONS ANSWERED: Not detected
+
+✗ EXTERNAL COMMENTARY: Not detected
+
+
+================================================================================
+VERIFICATION SUMMARY
+================================================================================
+
+Total articles reviewed: 20
+Articles with meeting mention: 13
+Articles with issues discussed: 20
+Articles with questions answered: 1
+Articles with external commentary: 14
+
+Review the excerpts above to verify detection accuracy.
+Look for:
+  - False positives: Detected but excerpt doesn't actually support the message
+  - False negatives: Not detected but should have been
+  - Missing excerpts: Should add more context or refine patterns

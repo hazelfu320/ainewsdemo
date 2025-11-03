@@ -1,0 +1,227 @@
+# Sample Articles Review - First 5 Articles
+
+This document contains full article texts with analysis results for manual review.
+
+---
+
+
+## Article 1: APEC summit to close in South Korea after Trump, Xi agreed on trade truce
+
+**Source**: Winnipeg Free Press  
+**Published**: 2025-11-01T00:18:06Z  
+**URL**: https://www.winnipegfreepress.com/business/2025/10/31/apec-summit-to-close-in-south-korea-after-trump-xi-agreed-on-trade-truce
+
+### Analysis Results
+
+- **Meeting Occurred**: ✓ YES
+- **Issues Discussed**: north korea, trade
+- **Questions Answered**: ✗ NO
+- **External Commentary**: ✓ YES
+
+### Full Article Text
+
+```
+GYEONGJU, South Korea (AP) -- Leaders of 21 Asian and Pacific Rim nations are to set to wrap up their annual economic forum on Saturday after President Donald Trump and Chinese President Xi Jinping agreed on a temporary truce on their trade war, generating relief around the world.
+
+This year's Asia-Pacific Economic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-escalating their trade tensions.
+
+The high-stakes meeting was arranged on the sidelines of APEC. Trump, known for his dismissal of multilateralism, quickly left South Korea after reaching deals with Xi, allowing the Chinese president to steal the limelight at the summit.
+
+During the APEC summit's opening session Friday, Xi said China would support global free trade and supply chain stability in an apparent effort to position his country as an alternative to Trump's protectionist policies. In written remarks sent to a CEO summit held in conjunction with APEC, Xi said that "Investing in China is investing in the future."
+
+Xi met his Japanese, Canadian and Thai counterparts bilaterally on the sidelines of APEC on Friday. He's to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula.
+
+That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member. North Korea's Vice Foreign Minister Pak Myong Ho on Saturday slammed South Korea for talking about "its daydream" of realizing North Korea's denuclearization, saying North Korea will show how such a push is "a pipedream" that can never be realized. Park's statement was seen as applying pressure on both South Korea and China ahead of their bilateral summit.
+
+Trump earlier repeatedly expressed his desire to meet North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded. Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed. North Korea has since vowed not to place its advancing nuclear program on a negotiating table, but experts say the North would aim for winning extensive sanctions relief in return for a partial surrender of its advancing nuclear program.
+
+Friday's APEC meeting focused on ways to boost trade and investment, and Saturday's meeting is expected to center on artificial intelligence, demographic challenges and new growth strategies.
+
+As the host nation, South Korea has been prodding members to adopt a joint declaration at the end of APEC's second and final day session on Saturday. In a 2018 APEC summit in Papua New Guinea, members failed to come up with a joint declaration due to U.S.-China discord over trade.
+
+South Korean officials earlier said that issuing a joint statement strongly endorsing free trade would be unlikely because of differing positions among APEC members
+
+Established in 1989, APEC champions free and open trade and investment to accelerate regional economic integration. But the APEC region now faces challenges like strategic rivalry between the U.S. and China, supply chain disruptions, aging populations and the impact of AI on jobs.
+
+The U.S. strategy has been shifted to economic competitions with China rather than cooperation, with Trump's tariff hikes and "America first" agenda shaking markets and threatening decades of globalization and multinationalism.
+```
+
+---
+
+
+## Article 2: China's Xi in the spotlight at Pacific summit while Trump is conspicuous by his absence
+
+**Source**: ExBulletin  
+**Published**: 2025-11-01T02:28:39Z  
+**URL**: https://exbulletin.com/politics/3102098/
+
+### Analysis Results
+
+- **Meeting Occurred**: ✓ YES
+- **Issues Discussed**: north korea, technology, trade, taiwan
+- **Questions Answered**: ✗ NO
+- **External Commentary**: ✓ YES
+
+### Full Article Text
+
+```
+Leaders of Pacific countries and territories, including China's Xi Jinping, gathered in South Korea for a major summit this week. But the leader of a world power is visibly absent: Donald Trump.
+
+The US president left South Korea on Thursday, moments after his historic meeting with his Chinese counterpart, which appeared to ease the protracted trade conflict between the world's two largest economies.
+
+While Trump chose to skip the annual Asia-Pacific Economic Cooperation summit, which brings together countries representing more than half of world trade, Xi stepped into the spotlight and held high-level meetings with new Japanese leader Sanae Takaichi and Canada's Mark Carney.
+
+Despite his absence, Trump's protectionist trade policies and punitive global tariffs threaten the two-day event in the city of Gyeongju. US Treasury Secretary Scott Bessent stands in for Trump at the talks.
+
+In his speech opening the forum, Xi called for unity and cooperation among the grouping of 21 economies on both sides of the Pacific.
+
+The world is experiencing rapid changes unprecedented in a century, Xi said at the forum. The more troubled times are, the more united we must be.
+
+China's door to opening will not close; it will only open wider, Xi said.
+
+Decisions made in Gyeongju are not binding and leaders have struggled to reach consensus in the past, particularly on thorny issues like Russia's war in Ukraine. But a key focus of the forum this year is to strengthen supply chains and encourage cooperation as economies around the world reel from Trump's tariff offensive.
+
+We stand at a critical inflection point with a rapidly changing global economic order, South Korean President and APEC Chairman Lee Jae Myung said in his summit speech Friday. As the free trade order undergoes radical changes, global economic uncertainty is increasing and trade and investment are losing momentum.
+
+Lee said that only cooperation and solidarity can surely lead us to a better future.
+
+In Japan, Trump and newly minted Prime Minister Takaichi embarked on a new golden age in their relations and signed a crucial minerals deal. And a new trade deal with Lee would see South Korea invest billions of dollars in the United States, including in shipbuilding, aerospace and technology, according to the White House.
+
+On Friday, Xi met with Japan's Takaichi, a staunch conservative who has criticized China's growing military presence in the region and called for cooperation with Taiwan, the self-governing island that Beijing claims as its own.
+
+Xi told Takaichi that China is willing to work with Japan to establish constructive and stable bilateral relations that meet the demands of the new era, China's official Xinhua News Agency reported.
+
+My goal is to maintain communication with you and thus jointly promote the development of China-Japan relations on the right track, Xi said.
+
+Takaichi faced a difficult balancing act when meeting Xi. China remains Japan's largest trading partner, and Takaichi inherited a country facing growing economic difficulties.
+
+She told reporters after the meeting that China and Japan agreed to build a mutually beneficial strategic relationship. But Takaichi said she also expressed concerns to Xi on sensitive issues, including China's control of rare earth exports, Chinese activity in the East China Sea and the detention of Japanese nationals in China.
+
+I also asked China to resume Japanese imports of beef and seafood, she said.
+
+The meeting contrasted sharply with the warm camaraderie displayed by Takaichi and Trump in Tokyo days earlier, during which the two allies embarked on a new golden age of their relations. Takaichi and Trump demonstrated a close bond with smiles, fist bumps and jokes.
+
+For Canadian Prime Minister Carney, embroiled in an escalating trade war with Trump, the meeting with Xi marked a turning point in their relationship, according to his office.
+
+In an earlier speech echoing Xi and Lee's speeches at APEC, Carney told the forum that the world was facing another pivotal moment in history.
+
+Our world is experiencing one of the most profound changes since the fall of the Berlin Wall, he said. That old world of ever-expanding liberalized trade and investment is over.
+
+Carney sought to reset relations between Canada and China after years of deteriorating relations and diplomatic conflicts. Trade negotiations with the United States, Canada's largest trading partner, are at an impasse and Carney said at the APEC summit that he aims to double non-U.S. exports over the next decade in an effort to diversify beyond the United States.
+
+Carney and Xi affirmed their commitment to renewing relations between their two countries in a pragmatic and constructive manner and discussed a framework to deepen cooperation in a range of areas from clean and conventional energy to agriculture, manufacturing, climate change and international finance, the prime minister's office said.
+
+Carney also accepted an invitation to visit China, and both executives directed their officials to move quickly to resolve outstanding trade issues and irritants.
+
+Xi will hold talks with South Korea's Lee on Saturday, in the first summit between the two leaders. On the agenda are discussions on the denuclearization of the Korean Peninsula as well as regional peace and stability.
+
+Prior to the meeting, North Korea had called denuclearization negotiations a pipe dream that would never come true.
+
+The country's Deputy Foreign Minister Pak Myong Ho accused South Korea of lacking common sense by refusing to recognize Pyongyang as a nuclear-armed state and pursuing what he called a daydream of denuclearization, the Korean Central News Agency reported.
+```
+
+---
+
+
+## Article 3: APEC summit to close in South Korea after Trump, Xi agreed on trade truce - WTOP News
+
+**Source**: WTOP  
+**Published**: 2025-11-01T02:23:36Z  
+**URL**: https://wtop.com/world/2025/10/apec-summit-to-close-in-south-korea-after-trump-xi-agreed-on-trade-truce/
+
+### Analysis Results
+
+- **Meeting Occurred**: ✓ YES
+- **Issues Discussed**: north korea, ip rights, trade
+- **Questions Answered**: ✗ NO
+- **External Commentary**: ✓ YES
+
+### Full Article Text
+
+```
+GYEONGJU, South Korea (AP) -- Leaders of 21 Asian and Pacific Rim nations are to set to wrap up their annual economic forum on Saturday after President Donald Trump and Chinese President Xi Jinping agreed on a temporary truce on their trade war, generating relief around the world.
+
+This year's Asia-Pacific Economic Cooperation summit in the South Korean city of Gyeongju was heavily overshadowed by Thursday's Trump-Xi meeting that ended with the two leaders dialing back their earlier trade steps and de-escalating their trade tensions.
+
+The high-stakes meeting was arranged on the sidelines of APEC. Trump, known for his dismissal of multilateralism, quickly left South Korea after reaching deals with Xi, allowing the Chinese president to steal the limelight at the summit.
+
+During the APEC summit's opening session Friday, Xi said China would support global free trade and supply chain stability in an apparent effort to position his country as an alternative to Trump's protectionist policies. In written remarks sent to a CEO summit held in conjunction with APEC, Xi said that "Investing in China is investing in the future."
+
+Xi met his Japanese, Canadian and Thai counterparts bilaterally on the sidelines of APEC on Friday. He's to meet South Korean President Lee Jae Myung on Saturday for talks that Seoul officials said would touch on efforts to achieve denuclearization and peace on the Korean Peninsula.
+
+That agenda at the Xi-Lee meeting angered North Korea, a non-APEC member. North Korea's Vice Foreign Minister Pak Myong Ho on Saturday slammed South Korea for talking about "its daydream" of realizing North Korea's denuclearization, saying North Korea will show how such a push is "a pipedream" that can never be realized. Park's statement was seen as applying pressure on both South Korea and China ahead of their bilateral summit.
+
+Trump earlier repeatedly expressed his desire to meet North Korean leader Kim Jong U n during his visit to South Korea, but North Korea hasn't responded. Trump and Kim met three times in 2018-19, but their nuclear diplomacy eventually collapsed. North Korea has since vowed not to place its advancing nuclear program on a negotiating table, but experts say the North would aim for winning extensive sanctions relief in return for a partial surrender of its advancing nuclear program.
+
+Friday's APEC meeting focused on ways to boost trade and investment, and Saturday's meeting is expected to center on artificial intelligence, demographic challenges and new growth strategies.
+
+As the host nation, South Korea has been prodding members to adopt a joint declaration at the end of APEC's second and final day session on Saturday. In a 2018 APEC summit in Papua New Guinea, members failed to come up with a joint declaration due to U.S.-China discord over trade.
+
+South Korean officials earlier said that issuing a joint statement strongly endorsing free trade would be unlikely because of differing positions among APEC members
+
+Established in 1989, APEC champions free and open trade and investment to accelerate regional economic integration. But the APEC region now faces challenges like strategic rivalry between the U.S. and China, supply chain disruptions, aging populations and the impact of AI on jobs.
+
+The U.S. strategy has been shifted to economic competitions with China rather than cooperation, with Trump's tariff hikes and "America first" agenda shaking markets and threatening decades of globalization and multinationalism.
+
+Copyright © 2025 The Associated Press. All rights reserved. This material may not be published, broadcast, written or redistributed.
+```
+
+---
+
+
+## Article 4: @ the Bell: Tariffs and treats -- Trump and Xi call a truce as the market chills
+
+**Source**: stockhouse  
+**Published**: 2025-11-01T02:01:23Z  
+**URL**: https://stockhouse.com/news/market-updates/2025/10/31/-bell-tariffs-and-treats-trump-and-xi-call-truce-as-market-chills
+
+### Analysis Results
+
+- **Meeting Occurred**: ✓ YES
+- **Issues Discussed**: nan
+- **Questions Answered**: ✗ NO
+- **External Commentary**: ✗ NO
+
+### Full Article Text
+
+```
+Canada&CloseCurlyQuote;s main stock index kept steady on Friday, as optimism from strong US tech earnings was counterbalanced by falling commodity prices. Oil slipped due to disappointing economic data from China and increased global output, which outweighed the effects of Western sanctions on Russian exports. Speaking at a business forum held alongside the main summit, Prime Minister Mark Carney announced Ottawa&CloseCurlyQuote;s goal to double its non-US exports within the next ten years.
+
+Meanwhile, Presidents Donald Trump and Xi Jinping reached a one-year trade truce during their meeting in South Korea on Thursday, easing investor fears of a full-scale trade war. As part of the agreement, Trump pledged an immediate 10 per cent reduction in tariffs on Chinese goods related to fentanyl, bringing the overall tariff rate on Chinese imports down to approximately 47 per cent. In return, Beijing committed to suspend the rare-earth export restrictions introduced earlier this month for one year.
+
+The Canadian dollar traded for 71.37 cents US compared to 71.53 cents US on Thursday.
+
+US crude futures traded $0.33 higher at US$69.90 a barrel, and the Brent contract rose $0.07 to US$65.07 a barrel.
+
+The price of gold was up $0.35 to US$4,002.96.
+
+In world markets, the Nikkei was up 1,085.73 points to ¥52,411.34, the Hang Seng was down 376.04 points to HK$25,906.65, the FTSE was down 48.98 points to ₤9,711.08, and the DAX was down 160.59 points to €23,258.30.
+```
+
+---
+
+
+## Article 5: Trump may have skipped APEC, but Xi is using it to sell China as the last defender of globalization
+
+**Source**: ExBulletin  
+**Published**: 2025-11-01T01:48:00Z  
+**URL**: https://exbulletin.com/politics/3102078/
+
+### Analysis Results
+
+- **Meeting Occurred**: ✗ NO
+- **Issues Discussed**: nan
+- **Questions Answered**: ✗ NO
+- **External Commentary**: ✗ NO
+
+### Full Article Text
+
+```
+Chinese leader Xi Jinping told Asia-Pacific leaders on Friday that his country would help defend global free trade at an annual regional economic forum snubbed by U.S. President Donald Trump.
+
+What Are The Main Benefits Of Comparing Car Insurance Quotes Online
+
+LOS ANGELES, CA / ACCESSWIRE / June 24, 2020, / Compare-autoinsurance.Org has launched a new blog post that presents the main benefits of comparing multiple car insurance quotes. For more info and free online quotes, please visit https://compare-autoinsurance.Org/the-advantages-of-comparing-prices-with-car-insurance-quotes-online/ The modern society has numerous technological advantages. One important advantage is the speed at which information is sent and received. With the help of the internet, the shopping habits of many persons have drastically changed. The car insurance industry hasn't remained untouched by these changes. On the internet, drivers can compare insurance prices and find out which sellers have the best offers. View photos The advantages of comparing online car insurance quotes are the following: Online quotes can be obtained from anywhere and at any time. Unlike physical insurance agencies, websites don't have a specific schedule and they are available at any time. Drivers that have busy working schedules, can compare quotes from anywhere and at any time, even at midnight. Multiple choices. Almost all insurance providers, no matter if they are well-known brands or just local insurers, have an online presence. Online quotes will allow policyholders the chance to discover multiple insurance companies and check their prices. Drivers are no longer required to get quotes from just a few known insurance companies. Also, local and regional insurers can provide lower insurance rates for the same services. Accurate insurance estimates. Online quotes can only be accurate if the customers provide accurate and real info about their car models and driving history. Lying about past driving incidents can make the price estimates to be lower, but when dealing with an insurance company lying to them is useless. Usually, insurance companies will do research about a potential customer before granting him coverage. Online quotes can be sorted easily. Although drivers are recommended to not choose a policy just based on its price, drivers can easily sort quotes by insurance price. Using brokerage websites will allow drivers to get quotes from multiple insurers, thus making the comparison faster and easier. For additional info, money-saving tips, and free car insurance quotes, visit https://compare-autoinsurance.Org/ Compare-autoinsurance.Org is an online provider of life, home, health, and auto insurance quotes. This website is unique because it does not simply stick to one kind of insurance provider, but brings the clients the best deals from many different online insurance carriers. In this way, clients have access to offers from multiple carriers all in one place: this website. On this site, customers have access to quotes for insurance plans from various agencies, such as local or nationwide agencies, brand names insurance companies, etc. "Online quotes can easily help drivers obtain better car insurance deals. All they have to do is to complete an online form with accurate and real info, then compare prices", said Russell Rabichev, Marketing Director of Internet Marketing Company. CONTACT: Company Name: Internet Marketing CompanyPerson for contact Name: Gurgu CPhone Number: (818) 359-3898Email: [email protected]: https://compare-autoinsurance.Org/ SOURCE: Compare-autoinsurance.Org View source version on accesswire.Com:https://www.Accesswire.Com/595055/What-Are-The-Main-Benefits-Of-Comparing-Car-Insurance-Quotes-Online View photos
+```
+
+---
